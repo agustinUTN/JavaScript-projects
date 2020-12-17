@@ -1,3 +1,6 @@
+*{
+    letter-spacing: 0.25rem;
+}
 nav{
     display: flex;
 }
@@ -16,7 +19,7 @@ nav{
 .center-main{
     position: absolute;
     top: 40%;
-    left: 40%;
+    left: 31%;
 }
 .hex-color{
     color: #61B3F7;
